@@ -34,6 +34,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=axhar-ibraheem&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=axhar-ibraheem&icon=5&color=3)](https://visitcount.itsvg.in)
+ 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
