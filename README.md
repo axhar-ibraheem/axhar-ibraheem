@@ -12,7 +12,7 @@
 
 
 ## 💫 About Me:
-- 🌱 I’m currently learning **Python, Node.js, Express.**
+- 🌱 I’m currently learning **TypeScript, Node.js, Express, MongoDB**
 
 - 👯 I’m looking to collaborate on **front-end functionalities with designers, back-end developers, and stakeholders to bring web projects to life.**
 
