@@ -34,9 +34,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=axhar-ibraheem&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=axhar-ibraheem&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axhar-ibraheem&layout=compact&theme=tokyonight)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=axhar-ibraheem&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+## 📊 Language Usage
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azhar-ibraheem&layout=compact&theme=tokyonight)
+
+ 
 
 ---
  
