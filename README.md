@@ -38,7 +38,7 @@ Front-End Developer focused on building clean, responsive, and user-friendly int
 
 ## 📊 Language Usage
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azhar-ibraheem&layout=compact&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=axhar-ibraheem&theme=tokyonight)
 
  
 
