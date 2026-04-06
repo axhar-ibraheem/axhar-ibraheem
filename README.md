@@ -11,12 +11,9 @@
 <h4 align="center">Front-End Developer | Passionate about creating intuitive and visually appealing user interfaces. Proficient in HTML, CSS, and JavaScript. Dedicated to delivering modern, responsive websites. Committed to optimizing performance and accessibility. Seeking opportunities to contribute and grow in a dynamic team.</h4>
 
 
-## 💫 About Me:
-- 🌱 I’m currently learning **Backend Development, DevOps**
-
-- 💬 Ask me about  ***JavaScript, FrontEnd Development.***
-
-- 📫 How to reach me **azharibraheem482@gmail.com**
+ ## 💫 About Me:
+- 🌱 Learning Backend Development & DevOps  
+- 📫 Contact: azharibraheem482@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-azhar-6b5479233) 
