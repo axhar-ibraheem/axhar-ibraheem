@@ -34,7 +34,6 @@ Front-End Developer focused on building clean, responsive, and user-friendly int
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=axhar-ibraheem&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=axhar-ibraheem&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=axhar-ibraheem&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 📊 Language Usage
 
