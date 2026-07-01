@@ -13,12 +13,13 @@ Front-End Developer focused on building clean, responsive, and user-friendly int
 </h4>
 
 
- ## 💫 About Me:
-- 🌱 Learning Backend Development & DevOps  
-- 📫 Contact: azharibraheem482@gmail.com
+ ## 💫 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-azhar-6b5479233) 
+- 💻 Frontend Developer specializing in React & Angular
+- 🚀 Expanding my skills in DevOps with a focus on AWS Cloud
+- 🚀 Building full-stack applications with Node.js & Express
+- 📚 Passionate about scalable web applications and modern development practices
+- 📫 Reach me at: **azharibraheem482@gmail.com**
 
 # 💻 Tech Stack:
 
@@ -37,6 +38,9 @@ Front-End Developer focused on building clean, responsive, and user-friendly int
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=axhar-ibraheem&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=axhar-ibraheem&theme=radical&hide_border=true)<br/>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-azhar-6b5479233) 
 
 ## 📊 Language Usage
 
