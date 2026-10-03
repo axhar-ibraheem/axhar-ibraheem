@@ -1,53 +1,21 @@
-  
-  <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
-  </div>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=axhar-ibraheem&label=Profile%20views&color=0e75b6&style=flat" alt="axhar-ibraheem" /> </p>
- 
+# 👋 Hi, I'm Mohammad Azhar
 
+### Frontend Developer | React • Angular • Java • Spring Boot
 
-<h1 align="center">Hi 👋, I'm Mohammad Azhar</h1>
+Building clean and scalable applications while expanding my skills in backend development, microservices, and DevOps.
 
-<h4 align="center">
-Software Developer passionate about building scalable applications with Java, Spring Boot, React, and Angular. Interested in backend development, APIs, databases, and DevOps.
-</h4>
+## ⚙️ Tech Stack
 
-
- ## 💫 About Me
-
-- 💻 Frontend Developer specializing in React & Angular
-- 🚀 Expanding my skills in DevOps with a focus on AWS Cloud
-- 🚀 Building scalable applications with Spring Boot, Java & Microservices
-- 📚 Passionate about scalable web applications and modern development practices
-- 📫 Reach me at: **azharibraheem482@gmail.com**
-
-# 💻 Tech Stack:
-
-## 🧠 Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-## ⚙️ Technologies
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=axhar-ibraheem&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=axhar-ibraheem&theme=radical&hide_border=true)<br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-azhar-6b5479233) 
+## 🌐 Connect
 
-## 📊 Language Usage
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=axhar-ibraheem&theme=tokyonight)
-
- 
-
----
- 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-azhar-6b5479233)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azharibraheem482@gmail.com)
