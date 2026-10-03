@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Azhar</h1>
 
 <h4 align="center">
-Front-End Developer focused on building clean, responsive, and user-friendly interfaces. Skilled in JavaScript, TypeScript, React, and Angular, with a growing interest in backend development and DevOps.
+Software Developer passionate about building scalable applications with Java, Spring Boot, React, and Angular. Interested in backend development, APIs, databases, and DevOps.
 </h4>
 
 
