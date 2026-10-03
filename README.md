@@ -17,7 +17,7 @@ Front-End Developer focused on building clean, responsive, and user-friendly int
 
 - 💻 Frontend Developer specializing in React & Angular
 - 🚀 Expanding my skills in DevOps with a focus on AWS Cloud
-- 🚀 Building full-stack applications with Node.js & Express
+- 🚀 Building scalable applications with Spring Boot, Java & Microservices
 - 📚 Passionate about scalable web applications and modern development practices
 - 📫 Reach me at: **azharibraheem482@gmail.com**
 
